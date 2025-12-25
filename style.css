@@ -1,6 +1,9 @@
 /* body要素の背景色を薄い青色にする */
 body {
-    background-color: #e0f7fa; /* 水色系の色コードじゃ */
+    background-image: url('https://user-images.githubusercontent.com/66983796/232490333-5c026938-161d-444f-a035-e1173623d242.png');
+    background-size: cover; /* 画像が画面全体を覆うように調整するのじゃ */
+    background-attachment: fixed; /* ページをスクロールしても背景画像を固定するのじゃ */
+    background-position: center; /* 背景画像を中央に配置するのじゃ */
     font-family: Arial, sans-serif; /* 文字のフォントを指定するのじゃ */
     text-align: center; /* テキストを中央揃えにするのじゃ */
     padding: 50px; /* 内側の余白を設けるのじゃ */
