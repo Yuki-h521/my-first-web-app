@@ -1,6 +1,6 @@
 /* body要素の背景色を薄い青色にする */
 body {
-    background-image: url('https://user-images.githubusercontent.com/66983796/232490333-5c026938-161d-444f-a035-e1173623d242.png');
+    background-image: url('https://images.unsplash.com/photo-1502134249126-9f3755297805?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D');
     background-size: cover; /* 画像が画面全体を覆うように調整するのじゃ */
     background-attachment: fixed; /* ページをスクロールしても背景画像を固定するのじゃ */
     background-position: center; /* 背景画像を中央に配置するのじゃ */
