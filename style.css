@@ -1,6 +1,6 @@
 /* body要素の背景色を薄い青色にする */
 body {
-    background-image: url('background.png');
+    background-image: url('background.png.png');
     background-size: cover; /* 画像が画面全体を覆うように調整するのじゃ */
     background-attachment: fixed; /* ページをスクロールしても背景画像を固定するのじゃ */
     background-position: center; /* 背景画像を中央に配置するのじゃ */
